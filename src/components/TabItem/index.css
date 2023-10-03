@@ -1,0 +1,8 @@
+.text {
+  background-color: inherit;
+  border-width: 0px;
+  text-decoration: underline;
+  font-size: 20px;
+  padding: 30px;
+  cursor: pointer;
+}
